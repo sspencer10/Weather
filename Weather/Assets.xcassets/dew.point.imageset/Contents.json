@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Dew Point-595b40b85ba036ed117dc06b.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Dew Point-595b40b85ba036ed117dc06b 1.svg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Dew Point-595b40b85ba036ed117dc06b 2.svg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
